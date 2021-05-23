@@ -32,6 +32,8 @@ My Github Stats:
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emanlui&hide=css,html&theme=tokyonight">
+</p>  
+<p align = "center">
   <img src = "https://github-profile-trophy.vercel.app/?username=Emanlui&theme=darkhub&row=1">
 </p>
 
