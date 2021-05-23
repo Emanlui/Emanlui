@@ -26,12 +26,12 @@ To contact me:
 
 ---
 My Github Stats: 
-<p align = "center">
+<p align = "center" vertical-align: middle>
   <img src = "https://github-readme-stats.vercel.app/api?username=emanlui&show_icons=true&theme=radical&line_height=27">
 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emanlui&hide=css,html&theme=tokyonight">
 </p>
-<p align = "center">
+<p align = "center" vertical-align: middle>
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Emanlui&theme=blue-green">
 
   <img src = "https://github-profile-trophy.vercel.app/?username=Emanlui&theme=darkhub&row=1">
