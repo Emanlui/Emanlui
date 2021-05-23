@@ -36,7 +36,7 @@ My Github Stats:
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Emanlui&theme=blue-green">
 </p>
 <p align = "center">
-  <img src = "https://github-profile-trophy.vercel.app/?username=Emanlui&theme=darkhub">
+  <img src = "https://github-profile-trophy.vercel.app/?username=Emanlui&theme=darkhub&rows=1">
 </p>
 
 Tech I like and use:
