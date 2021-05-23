@@ -26,7 +26,7 @@ To contact me:
 
 ---
 My Github Stats: 
-<p align = "center" vertical-align: middle>
+<p align = "center" vertical-align = "middle">
   <img src = "https://github-readme-stats.vercel.app/api?username=emanlui&show_icons=true&theme=radical&line_height=27">
 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emanlui&hide=css,html&theme=tokyonight">
