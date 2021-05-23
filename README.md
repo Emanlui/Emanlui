@@ -33,10 +33,10 @@ My Github Stats:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emanlui&hide=css,html&theme=tokyonight">
 </p>
 <p align = "center">
-  <img src = "[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Emanlui&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Emanlui&theme=blue-green">
 </p>
 <p align = "center">
-  <img src = "[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Emanlui&row=1)](https://github.com/ryo-ma/github-profile-trophy)">
+  <img src = "https://github-profile-trophy.vercel.app/?username=Emanlui&row=1">
 </p>
 
 Tech I like and use:
