@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 Ciber security Engineering at Tecnológico de Costa Rica.
 
+https://www.hackthebox.eu/badge/257197
+
 To contact me:
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/emanuellejimenezs/)
