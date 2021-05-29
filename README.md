@@ -18,14 +18,11 @@ Here are some ideas to get you started:
 ### Hi there 👋
 Ciber security Engineering at Tecnológico de Costa Rica.
 
-
-<script src="https://www.hackthebox.eu/badge/257197"></script>
-
 To contact me:
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/emanuellejimenezs/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emanuelle-jiménez-sancho) 
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.emanuellejimenez.dev/)
+[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://www.emanuellejimenez.com/)
 
 ---
 My Github Stats: 
