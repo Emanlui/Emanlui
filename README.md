@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Ciber security Engineering at Tecnológico de Costa Rica.
 
 
-<img src = "https://www.hackthebox.eu/badge/257197">
+<script src="https://www.hackthebox.eu/badge/257197"></script>
 
 To contact me:
 
